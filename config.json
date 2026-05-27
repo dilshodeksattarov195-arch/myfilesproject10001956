@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingfrocess",
+        "uuid": 3153072,
+        "checksum": "urpxkl"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
